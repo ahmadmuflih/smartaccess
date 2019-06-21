@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074532137231",
+    "firebase_url": "https://smartaccess-e9028.firebaseio.com",
+    "project_id": "smartaccess-e9028",
+    "storage_bucket": "smartaccess-e9028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074532137231:android:f10894b07ae94039",
+        "android_client_info": {
+          "package_name": "com.a4nesia.baso.smartaccess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074532137231-cop4j4mkllq0p14o03s64veu08eoaqcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a4nesia.baso.smartaccess",
+            "certificate_hash": "9956226beb9a500373ec1bdfa371b177fa1148ae"
+          }
+        },
+        {
+          "client_id": "1074532137231-dh5jp90t0oot3ru2dnag6pua77m3a57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD40nofyfP58wjH5atpOqOKR-wiI5YQuqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074532137231-dh5jp90t0oot3ru2dnag6pua77m3a57h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
